@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h3{
+    text-align: center;
+    margin-top: 1rem;
+}
+.container{
+    width: 60vw;
+    height: 60vh;
+    background-color: chartreuse;
+    margin-top: 6rem;
+}
+.container .main-joke{
+    font-size: 3rem;
+    color: darkblue;
+}
+.container .btn{
+    position: absolute;
+    top: 28rem;
+}
